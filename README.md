@@ -21,6 +21,15 @@ Python | Java | C/C++ | JavaScript | HTML
 - ⚡ Interested in problem solving, web development and software engineering
 - 🎯 Focused on writing clean, efficient and maintainable code
 
+## 🔗 Portfolio
+
+<div align="center">
+
+<a href="https://gowrisankaranandkj.github.io/developer-portfolio/">
+<img src="https://img.shields.io/badge/Live%20Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ## 🛠️ Tech Stack
 
