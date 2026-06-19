@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gowri%20Sankar%20Anand%20KJ&fontSize=40&animation=fadeIn&fontAlignY=35"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=200&section=header&text=Gowri%20Sankar%20Anand%20KJ&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 <h3>
 Aspiring Software Engineer 🚀
 </h3>
