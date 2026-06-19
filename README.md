@@ -77,7 +77,6 @@ https://gowrisankaranandkj.github.io/To-do-app/
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gowrisankaranandkj&style=flat-square"/>
 
 ### ⭐ "Learning today, building tomorrow."
 
