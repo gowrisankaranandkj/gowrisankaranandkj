@@ -27,7 +27,11 @@ Python | Java | C/C++ | JavaScript | HTML
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,git,github,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,git,github,vscode" />
+
+</p>
 
 </p>
 
