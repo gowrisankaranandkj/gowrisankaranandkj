@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=200&section=header&text=Gowri%20Sankar%20Anand%20KJ&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0404,50:991b1b,100:ef4444&height=200&section=header&text=Gowri%20Sankar%20Anand%20KJ&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 <h3>
 Aspiring Software Engineer 🚀
 </h3>
 
 <p>
-Python | Java | C/C++ | JavaScript | HTML
+Python | HTML | C/C++ | JavaScript | Java
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Exploring+Software+Development;Creating+Better+Solutions"/>
